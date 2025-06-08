@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="kanye.xsl"?>
+<kanye>
+  <osobno>
+    <tko_je>Ye, rođen kao Kanye Omari West, je američki reper, pjevač, tekstopisac, producent i modni dizajner. Jedan od najpopularnijih glazbenika na svijetu, prodao je 160 milijuna nosača zvuka. West je osvojio čak 24 Grammy nagrade, što ga stavlja na deseto mjesto za najviše Grammy-a svih vremena i najviše za bilo kojeg izvođača hip hop glazbe, zajedno s Jay-Z-em. Dobitnik je i drugih priznanja, uključujući Billboard Artist Achievement nagradu, rekordnih tri Brit Awardsa za Najboljeg Međunarodnog Muškog Solo Izvođača te nagradu Michael Jackson Video Vanguard.</tko_je>
+    <rani_zivot>West je rođen 8. lipnja 1977. u Atlanti, Georgija. Nakon što su mu se roditelji razveli kad je imao tri godine, preselio se s majkom u Chicago, Illinois. Njegov otac, Ray West, bivši je član Crnih pantera i bio je jedan od prvih crnih foto novinara u The Atlanta Journal-Constitution. Ray je kasnije postao kršćanski savjetnik, i 2006. godine otvorio je Good Water Store and Café u Lexington Park, Maryland, s početnim kapitalom od svog sina. Westova majka, Donda C. West (rođena Williams), bila je profesorica engleskog na Clark Atlanta University i predsjednica Odjela za engleski na Chicago State University prije nego što se povukla kako bi služila kao njegov menadžer. West je odrastao u srednje klasičnom okruženju, pohađao je Polaris School for Individual Education u predgrađu Oak Lawn, Illinois, nakon života u Chicagu.U dobi od 10 godina, West se preselio s majkom u Nanjing, Kina, gdje je ona predavala na Sveučilištu Nanjing kao Fulbrightov stipendist. West je pokazao sklonost prema umjetnosti od rane dobi; počeo je pisati poeziju kad mu je bilo pet godina. West je počeo repati u trećem razredu i počeo stvarati glazbene kompozicije u sedmom razredu, koje je kasnije prodavao drugim umjetnicima. West se susreo s producentom No I.D., koji je postao Westov prijatelj i mentor. Nakon što je završio srednju školu, West je dobio stipendiju za pohađanje American Academy of Art u Chicagu 1997. godine i počeo pohađati tečajeve slikarstva. Uskoro nakon toga, prešao je na Chicago State University kako bi studirao engleski jezik. U dobi od 20 godina odustao je kako bi se posvetio glazbenoj karijeri. To je jako nezadovoljilo njegovu majku, koja je također bila profesorica na sveučilištu, iako je kasnije prihvatila tu odluku.</rani_zivot>
+    <muzicki_genije>Glazbena karijera Kanye Westa obilježena je čestim promjenama stila i različitim glazbenim pristupima. U godinama nakon njegovog debija, West se kako glazbeno, tako i stihovno, sve više posvetio eksperimentalnom pristupu kreiranju progresivne hip-hop glazbe, zadržavajući pritom pristupačne pop senzibilitete. Na svom prvom studijskom albumu, "The College Dropout" (2004), West je oblikovao konstitutivne elemente svog stila, opisane kao kompleksni hip-hop ritmovi, tematska pitanja, i neuglađeni rep prožet inventivnim igrama riječima. Album je označio Westov odmak od tada dominantnog gangsterskog imidža u hip-hopu u korist raznolikijih, tematskih tekstova, uključujući visoko obrazovanje, materijalizam, samoosviještenost, rad za minimalnu plaću, institucionalnu predrasudu, klasne borbe, obitelj, seksualnost, njegove borbe u glazbenoj industriji, i odrastanje u srednjoj klasi. Tijekom vremena, West je istraživao različite glazbene žanrove, obuhvaćajući i crpeći inspiraciju iz chamber popa na svom drugom studijskom albumu, "Late Registration" (2005), arena rocka i europopa na trećem albumu, "Graduation" (2007), sintetičkog electropopa na četvrtom albumu, "808s and Heartbreak" (2008), acid-housea, drill-a, industrialnog rapa i trap-a na "Yeezus" (2013), gospel glazbe i kršćanskog rapa na "The Life of Pablo" (2016), "Jesus is King" (2019) i "Donda" (2021), te psihodelične glazbe na "Kids See Ghosts" (2018).</muzicki_genije>
+  </osobno>
+  
+  <albumi>
+    <album><naziv>The College Dropout</naziv><godina>2004</godina></album>
+    <album><naziv>Graduation</naziv><godina>2007</godina></album>
+    <album><naziv>808s and Heartbreak</naziv><godina>2008</godina></album>
+    <album><naziv>My Beautiful Dark Twisted Fantasy</naziv><godina>2010</godina></album>
+    <album><naziv>Yeezus</naziv><godina>2013</godina></album>
+    <album><naziv>The Life of Pablo</naziv><godina>2016</godina></album>
+    <album><naziv>Ye</naziv><godina>2018</godina></album>
+    <album><naziv>Jesus Is King</naziv><godina>2019</godina></album>
+    <album><naziv>Donda</naziv><godina>2020</godina></album>
+  </albumi>
+  
+  <kontakt>
+    <email>kanye@gmail.com</email>
+    <telefon>+123456789</telefon>
+    <adresa>Chicago, IL</adresa>
+  </kontakt>
+</kanye>
